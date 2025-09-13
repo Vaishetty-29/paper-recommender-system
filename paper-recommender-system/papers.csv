@@ -1,0 +1,4 @@
+id,title,authors,abstract,year,journal,category,premium
+1,Lightweight Recommender Systems,John Doe,This paper explores building recommender systems on low-power devices.,2023,J. Comp. Science,AI,FALSE
+2,Python for Data Science,Jane Smith and Joe Bloggs,A beginner's guide to using Python for data analysis and machine learning.,2022,Data Today,Programming,FALSE
+3,Efficient TF-IDF on a Pentium CPU,Alice Wonderland,An analysis of how to optimize TF-IDF for old hardware.,2024,Hardware Journal,AI,TRUE
